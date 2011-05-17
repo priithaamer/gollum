@@ -244,12 +244,12 @@ a#function-help:hover span { background-position: -405px -28px; }
   background: #fff;
   border: 1px solid #ddd;
   font-size: 1.3em;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  line-height: 1.8em;
+  font-family: Inconsolata, Monaco, 'Courier New', Courier;
+  line-height: 1.3em;
   margin: 1em 0 0.4em;
   padding: 0.5em; /* I don't really like mixing pct & em here… */
   width: 98%;
-  height: 20em;
+  height: 30em;
 }
 
 #gollum-editor input#gollum-editor-submit {
